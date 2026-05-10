@@ -1,4 +1,4 @@
-# DevOps Day 1 Notes
+# DevOps Day 1 Notes....
 # What is DevOps?
 
 DevOps is a culture and process that improves software delivery by:
