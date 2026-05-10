@@ -590,6 +590,16 @@ Modern method:
 ```bash
 git switch feature-login
 ```
+# Lists both local and remote branches
+
+```bash
+git branch -a
+```
+# Lists remote branches with verbose details
+
+```bash
+git branch -r -v
+```
 
 ---
 
