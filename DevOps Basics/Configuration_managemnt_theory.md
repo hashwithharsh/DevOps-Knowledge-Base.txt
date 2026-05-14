@@ -1,4 +1,4 @@
-# Day 14 — Configuration Management & Ansible
+# Configuration Management theory & Ansible
 
 ---
 
